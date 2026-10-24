@@ -243,3 +243,15 @@ Refer to the following files for more information:
 ## License
 
 Specify the project's license here if one has been selected. Do not assume that the project is open-source or assign a license without the project's owner's approval.
+
+
+## Demo Login Credentials
+
+Use the following demo account to access the eClinic School Clinic Management System.
+
+- **System URL:** https://cozy-cannoli-6119b2.netlify.app/
+- **Email:** `clinicadmin123@email.com`
+- **Password:** `123456`
+
+**Note:** These credentials are intended for system demonstration and academic evaluation only. Please use the demo account responsibly.
+
