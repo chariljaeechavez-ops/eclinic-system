@@ -249,7 +249,7 @@ Specify the project's license here if one has been selected. Do not assume that 
 
 Use the following demo account to access the eClinic School Clinic Management System.
 
-- **System URL:** https://cozy-cannoli-6119b2.netlify.app/
+- **System URL:** https://eclinic-system.netlify.app/
 - **Email:** `clinicadmin123@email.com`
 - **Password:** `123456`
 
